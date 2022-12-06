@@ -3,7 +3,7 @@
 
 ## 個人データ
 - ID ryio1010
-- Web
+- Web https://ryio1010.github.io/Curriculum-Vitae/
 
 ## スキル
 ### 言語
